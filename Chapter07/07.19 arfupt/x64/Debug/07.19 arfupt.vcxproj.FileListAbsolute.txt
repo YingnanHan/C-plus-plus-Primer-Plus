@@ -1,0 +1,4 @@
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.19 arfupt\x64\Debug\07.19 arfupt.vcxproj.MdMergeInputs.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.19 arfupt\x64\Debug\07.19 arfupt.vcxproj.cppwinrt_plat.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.19 arfupt\x64\Debug\07.19 arfupt.vcxproj.cppwinrt_comp.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.19 arfupt\x64\Debug\07.19 arfupt.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06--exercises\06.02\源.cpp(9,9): warning C4101: “len”: 未引用的局部变量
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06--exercises\06.02\源.cpp(13,12): warning C4101: “line”: 未引用的局部变量
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06--exercises\06.02\源.cpp(9,17): warning C4101: “j”: 未引用的局部变量
+  06.02.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06--exercises\06.02\x64\Debug\06.02.exe

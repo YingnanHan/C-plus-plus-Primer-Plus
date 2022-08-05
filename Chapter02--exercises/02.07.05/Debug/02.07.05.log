@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\C++ Primer Plus\Chapter02--exercises\02.07.05\源.cpp(7,17): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  02.07.05.vcxproj -> C:\Users\20613\Desktop\C++ Primer Plus\Chapter02--exercises\02.07.05\Debug\02.07.05.exe

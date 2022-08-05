@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.03 hangman\源.cpp(49,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.03 hangman\源.cpp(65,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.03 hangman\源.cpp(77,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.03 hangman\源.cpp(81,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  16.03 hangman.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.03 hangman\x64\Debug\16.03 hangman.exe

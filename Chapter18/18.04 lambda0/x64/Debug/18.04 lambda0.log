@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(19,25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(25,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(27,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(44,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(46,28): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(54,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\源.cpp(57,28): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  18.04 lambda0.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter18\18.04 lambda0\x64\Debug\18.04 lambda0.exe

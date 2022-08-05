@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.21 vslice\源.cpp(13,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16\16.21 vslice\源.cpp(62,50): error C2676: 二进制“+”:“std::slice_array<_Ty>”不定义该运算符或到预定义运算符可接收的类型的转换
+          with
+          [
+              _Ty=int
+          ]

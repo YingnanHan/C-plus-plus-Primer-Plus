@@ -1,0 +1,5 @@
+﻿  stonewt.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11\11.16 stonewt\stonewt.cpp(25,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  11.16 stonewt.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11\11.16 stonewt\x64\Debug\11.16 stonewt.exe

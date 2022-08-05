@@ -1,0 +1,20 @@
+﻿  源.cpp
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(35,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\numeric(44): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+C:\Users\20613\Desktop\11.C++ Primer Plus\Chapter05--exercises\05.06\源.cpp(20): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  05.06.vcxproj -> C:\Users\20613\Desktop\11.C++ Primer Plus\Chapter05--exercises\05.06\Debug\05.06.exe

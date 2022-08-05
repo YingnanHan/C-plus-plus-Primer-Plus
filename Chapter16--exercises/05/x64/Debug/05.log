@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\05\源.cpp(46,20): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\05\源.cpp(16): message : 查看对正在编译的函数 模板 实例化“int reduce<long>(T [],int)”的引用
+          with
+          [
+              T=long
+          ]
+  05.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\05\x64\Debug\05.exe

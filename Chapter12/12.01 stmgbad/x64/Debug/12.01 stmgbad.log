@@ -1,0 +1,5 @@
+﻿  strnbad.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.01 stmgbad\strnbad.cpp(15,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  12.01 stmgbad.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.01 stmgbad\x64\Debug\12.01 stmgbad.exe

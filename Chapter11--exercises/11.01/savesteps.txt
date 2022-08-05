@@ -1,0 +1,6 @@
+Enter step length: 0: (x,y) = (0, 0)
+After 1 steps, the subject has the following location:
+(x,y) = (7.88409, -20.5388)
+ or
+(m,a) = (22, -69)
+Average outward distance per step = 22

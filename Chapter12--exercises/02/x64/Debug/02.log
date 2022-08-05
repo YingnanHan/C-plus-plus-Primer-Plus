@@ -1,0 +1,7 @@
+﻿  string2.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12--exercises\02\string2.cpp(19,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12--exercises\02\string2.cpp(88,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12--exercises\02\string2.cpp(148,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  02.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12--exercises\02\x64\Debug\02.exe

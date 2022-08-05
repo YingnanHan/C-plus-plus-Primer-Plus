@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.04 lotto\源.cpp(13,57): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.04 lotto\源.cpp(13,50): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+  07.04 lotto.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter07\07.04 lotto\x64\Debug\07.04 lotto.exe

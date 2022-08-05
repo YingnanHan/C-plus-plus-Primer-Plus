@@ -1,0 +1,7 @@
+﻿  golf.cpp
+  golf.h
+  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter09--exercises\01\源.cpp(7,12): warning C4101: “hc”: 未引用的局部变量
+  正在生成代码...
+x64\Debug\golf.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  01.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter09--exercises\01\x64\Debug\01.exe

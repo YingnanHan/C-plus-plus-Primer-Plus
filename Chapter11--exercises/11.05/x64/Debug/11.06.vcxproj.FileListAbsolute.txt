@@ -1,0 +1,4 @@
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.06\x64\Debug\11.06.vcxproj.MdMergeInputs.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.06\x64\Debug\11.06.vcxproj.cppwinrt_plat.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.06\x64\Debug\11.06.vcxproj.cppwinrt_comp.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.06\x64\Debug\11.06.exe

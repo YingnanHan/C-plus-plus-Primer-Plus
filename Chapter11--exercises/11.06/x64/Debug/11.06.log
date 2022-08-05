@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.06\源.cpp(43,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  11.06.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.06\x64\Debug\11.06.exe

@@ -1,0 +1,4 @@
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06\06.16 sumafile\x64\Debug\06.16 sumafile.vcxproj.MdMergeInputs.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06\06.16 sumafile\x64\Debug\06.16 sumafile.vcxproj.cppwinrt_plat.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06\06.16 sumafile\x64\Debug\06.16 sumafile.vcxproj.cppwinrt_comp.cache
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter06\06.16 sumafile\x64\Debug\06.16 sumafile.exe

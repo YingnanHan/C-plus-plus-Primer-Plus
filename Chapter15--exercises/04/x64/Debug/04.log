@@ -1,0 +1,6 @@
+﻿  sales.cpp
+  sales.h
+  源.cpp
+  正在生成代码...
+x64\Debug\sales.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  04.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter15--exercises\04\x64\Debug\04.exe

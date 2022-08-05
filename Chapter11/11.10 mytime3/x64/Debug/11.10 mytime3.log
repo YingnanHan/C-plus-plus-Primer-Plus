@@ -1,0 +1,5 @@
+﻿  mytime3.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11\11.10 mytime3\mytime3.cpp(56,20): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  11.10 mytime3.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11\11.10 mytime3\x64\Debug\11.10 mytime3.exe

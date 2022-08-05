@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(27,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(27,36): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(28,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(36,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(56,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(67,51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\源.cpp(71,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  03.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\03\x64\Debug\03.exe

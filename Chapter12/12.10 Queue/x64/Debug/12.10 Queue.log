@@ -1,0 +1,5 @@
+﻿  queue.cpp
+  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.10 Queue\源.cpp(15,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  12.10 Queue.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.10 Queue\x64\Debug\12.10 Queue.exe

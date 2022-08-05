@@ -1,0 +1,5 @@
+﻿  sales.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter09--exercises\04\sales.cpp(30,28): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  04.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter09--exercises\04\x64\Debug\04.exe

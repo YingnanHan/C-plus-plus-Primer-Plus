@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter08\08.15 choices\源.cpp(30,25): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter08\08.15 choices\源.cpp(30,22): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  08.15 choices.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter08\08.15 choices\x64\Debug\08.15 choices.exe

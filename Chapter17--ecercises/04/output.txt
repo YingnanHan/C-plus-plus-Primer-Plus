@@ -1,0 +1,7 @@
+This is the input 1 file. This is the input 2 file.
+My name is Mike. My name is Elma.
+I like playing foortball. I like to play badminton.
+I love C++ and Python. I love Matlab and C++.
+I love America. Bye.
+I like to drink tea.
+Bye.

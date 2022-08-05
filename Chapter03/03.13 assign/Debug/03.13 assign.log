@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\C++ Primer Plus\Chapter03\03.13 assign\源.cpp(10,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\C++ Primer Plus\Chapter03\03.13 assign\源.cpp(11,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  03.13 assign.vcxproj -> C:\Users\20613\Desktop\C++ Primer Plus\Chapter03\03.13 assign\Debug\03.13 assign.exe

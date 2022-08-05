@@ -1,0 +1,5 @@
+﻿  sales.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter15\15.14 sales\sales.cpp(16,7): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  源.cpp
+  正在生成代码...
+  15.14 sales.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter15\15.14 sales\x64\Debug\15.14 sales.exe

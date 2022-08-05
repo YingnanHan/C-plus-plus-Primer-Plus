@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\11.C++ Primer Plus\Chapter05\05.14 waiting\源.cpp(12,16): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  05.14 waiting.vcxproj -> C:\Users\20613\Desktop\11.C++ Primer Plus\Chapter05\05.14 waiting\Debug\05.14 waiting.exe

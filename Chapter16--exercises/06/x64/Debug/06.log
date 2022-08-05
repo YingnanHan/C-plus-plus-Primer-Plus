@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\06\源.cpp(25,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\06\源.cpp(73,30): warning C4267: “+=”: 从“size_t”转换到“long”，可能丢失数据
+  06.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter16--exercises\06\x64\Debug\06.exe

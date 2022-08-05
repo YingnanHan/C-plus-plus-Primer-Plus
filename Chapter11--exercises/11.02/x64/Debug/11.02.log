@@ -1,0 +1,5 @@
+﻿  vector.cpp
+  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.02\源.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  11.02.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter11--exercises\11.02\x64\Debug\11.02.exe

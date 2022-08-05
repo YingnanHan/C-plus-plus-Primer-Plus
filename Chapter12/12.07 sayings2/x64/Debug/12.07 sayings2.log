@@ -1,0 +1,4 @@
+﻿  string1.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.07 sayings2\string1.cpp(25,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.07 sayings2\string1.cpp(73,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  12.07 sayings2.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter12\12.07 sayings2\x64\Debug\12.07 sayings2.exe

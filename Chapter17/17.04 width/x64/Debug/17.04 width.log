@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter17\17.04 width\源.cpp(8,8): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+  17.04 width.vcxproj -> C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter17\17.04 width\x64\Debug\17.04 width.exe

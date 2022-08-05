@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter08\08.07 strquote\源.cpp(59): warning C4172: 返回局部变量或临时变量的地址: temp
+源.obj : error LNK2019: 无法解析的外部符号 "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __cdecl version3(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?version3@@YAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV12@AEBV12@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __cdecl version3(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?version3@@YAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV12@0@Z)
+C:\Users\20613\Desktop\10.C++ Primer Plus\Chapter08\08.07 strquote\x64\Debug\08.07 strquote.exe : fatal error LNK1120: 1 个无法解析的外部命令

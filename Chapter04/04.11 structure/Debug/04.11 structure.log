@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20613\Desktop\C++ Primer Plus\Chapter04\04.11 structure\源.cpp(19,2): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\20613\Desktop\C++ Primer Plus\Chapter04\04.11 structure\源.cpp(26,2): warning C4305: “初始化”: 从“double”到“float”截断
+  04.11 structure.vcxproj -> C:\Users\20613\Desktop\C++ Primer Plus\Chapter04\04.11 structure\Debug\04.11 structure.exe
